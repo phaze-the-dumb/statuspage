@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: phaze-the-dumb # Your GitHub organization or username, where this repository lives
+repo: statuspage # The name of this repository
 
 sites:
   - name: Proxy Server
@@ -11,6 +11,8 @@ sites:
     url: https://webstatic-sea.phazed.xyz
   - name: AzuraCast
     url: https://azura.phazed.xyz
+  - name: Phaze ID
+    url: https://id.phazed.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,8 +21,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://webstatic-sea.phazed.xyz/cdn/rimirusticker.png
   name: Phaze
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Uptime of random services"
   navbar:
     - title: Status
       href: /
