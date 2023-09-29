@@ -6,7 +6,7 @@ sites:
   - name: Proxy Server
     url: https://dns.phazed.xyz
   - name: CDN
-    url: https://cdn.phazed.xyz
+    url: https://cdn.phazed.xyz/F1G3SQaaMAAWBI9t.jpg
   - name: File Sea
     url: https://webstatic-sea.phazed.xyz
   - name: AzuraCast
