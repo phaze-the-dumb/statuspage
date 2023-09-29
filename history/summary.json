@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.phazed.xyz.ico",
     "slug": "cdn",
     "status": "up",
-    "uptime": "1.27%",
-    "uptimeDay": "1.27%",
-    "uptimeWeek": "1.27%",
-    "uptimeMonth": "1.27%",
-    "uptimeYear": "1.27%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 391,
     "timeDay": 391,
     "timeWeek": 391,
     "timeMonth": 391,
     "timeYear": 391,
-    "dailyMinutesDown": {
-      "2023-09-29": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "File Sea",
