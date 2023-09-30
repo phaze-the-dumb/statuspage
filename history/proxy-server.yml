@@ -1,7 +1,7 @@
 url: https://dns.phazed.xyz
-status: down
-code: 525
-responseTime: 540
-lastUpdated: 2023-09-30T10:35:33.880Z
+status: up
+code: 200
+responseTime: 298
+lastUpdated: 2023-09-30T10:41:44.995Z
 startTime: 2023-09-29T15:42:04.920Z
 generator: Upptime <https://github.com/upptime/upptime>
