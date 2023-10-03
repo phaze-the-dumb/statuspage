@@ -9,8 +9,6 @@ sites:
     url: https://cdn.phazed.xyz/F1G3SQaaMAAWBI9t.jpg
   - name: File Sea
     url: https://webstatic-sea.phazed.xyz
-  - name: AzuraCast
-    url: https://azura.phazed.xyz
   - name: Phaze ID
     url: https://id.phazed.xyz
   - name: Photo Backups
