@@ -76,17 +76,19 @@
     "url": "https://photos.phazed.xyz/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/photos.phazed.xyz.ico",
     "slug": "photo-backups",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 612,
-    "timeWeek": 560,
-    "timeMonth": 577,
-    "timeYear": 577,
-    "dailyMinutesDown": {}
+    "time": 550,
+    "timeDay": 364,
+    "timeWeek": 505,
+    "timeMonth": 550,
+    "timeYear": 550,
+    "dailyMinutesDown": {
+      "2023-10-16": 0
+    }
   }
 ]
