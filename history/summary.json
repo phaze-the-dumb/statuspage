@@ -6,7 +6,7 @@
     "slug": "proxy-server",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 226,
     "timeMonth": 257,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-09": 0
+    }
   },
   {
     "name": "CDN",
@@ -40,53 +42,59 @@
     "url": "https://webstatic-sea.phazed.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/webstatic-sea.phazed.xyz.ico",
     "slug": "file-sea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 190,
-    "timeWeek": 287,
-    "timeMonth": 311,
-    "timeYear": 328,
-    "dailyMinutesDown": {}
+    "time": 323,
+    "timeDay": 127,
+    "timeWeek": 259,
+    "timeMonth": 303,
+    "timeYear": 323,
+    "dailyMinutesDown": {
+      "2023-11-09": 0
+    }
   },
   {
     "name": "Phaze ID",
     "url": "https://id.phazed.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/id.phazed.xyz.ico",
     "slug": "phaze-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 121,
-    "timeWeek": 234,
-    "timeMonth": 235,
-    "timeYear": 246,
-    "dailyMinutesDown": {}
+    "time": 242,
+    "timeDay": 87,
+    "timeWeek": 211,
+    "timeMonth": 230,
+    "timeYear": 242,
+    "dailyMinutesDown": {
+      "2023-11-09": 0
+    }
   },
   {
     "name": "Photo Backups",
     "url": "https://photos.phazed.xyz/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/photos.phazed.xyz.ico",
     "slug": "photo-backups",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 599,
-    "timeWeek": 625,
-    "timeMonth": 609,
-    "timeYear": 605,
-    "dailyMinutesDown": {}
+    "time": 593,
+    "timeDay": 358,
+    "timeWeek": 562,
+    "timeMonth": 594,
+    "timeYear": 593,
+    "dailyMinutesDown": {
+      "2023-11-09": 0
+    }
   }
 ]
