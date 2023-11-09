@@ -13,10 +13,6 @@ sites:
     url: https://id.phazed.xyz
   - name: Photo Backups
     url: https://photos.phazed.xyz/api/v1/status
-  - name: Media Server
-    url: $MEDIA_SECRET
-  - name: Azuracast Server
-    url: $STREAM_SECRET
   - name: ShareX Server
     url: https://i.phazed.xyz
     expectedStatusCodes:
