@@ -11,8 +11,8 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.82%",
     "time": 264,
-    "timeDay": 213,
-    "timeWeek": 224,
+    "timeDay": 219,
+    "timeWeek": 226,
     "timeMonth": 252,
     "timeYear": 264,
     "dailyMinutesDown": {
@@ -30,11 +30,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 336,
-    "timeWeek": 227,
-    "timeMonth": 230,
-    "timeYear": 221,
+    "time": 220,
+    "timeDay": 300,
+    "timeWeek": 220,
+    "timeMonth": 228,
+    "timeYear": 220,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Game Services / Multiplayer",
+    "url": "https://onlinegame.phazed.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/onlinegame.phazed.xyz.ico",
+    "slug": "game-services-multiplayer",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 257,
+    "timeDay": 257,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +67,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.82%",
     "time": 325,
-    "timeDay": 280,
-    "timeWeek": 291,
-    "timeMonth": 309,
+    "timeDay": 289,
+    "timeWeek": 295,
+    "timeMonth": 310,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2023-11-09": 104
@@ -69,9 +87,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.82%",
     "time": 243,
-    "timeDay": 198,
-    "timeWeek": 225,
-    "timeMonth": 232,
+    "timeDay": 208,
+    "timeWeek": 228,
+    "timeMonth": 233,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2023-11-09": 104
@@ -88,11 +106,11 @@
     "uptimeWeek": "98.97%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.81%",
-    "time": 597,
-    "timeDay": 543,
-    "timeWeek": 586,
-    "timeMonth": 598,
-    "timeYear": 597,
+    "time": 599,
+    "timeDay": 567,
+    "timeWeek": 596,
+    "timeMonth": 601,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2023-11-09": 104
     }
@@ -108,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 302,
-    "timeWeek": 302,
-    "timeMonth": 302,
-    "timeYear": 302,
+    "time": 307,
+    "timeDay": 307,
+    "timeWeek": 307,
+    "timeMonth": 307,
+    "timeYear": 307,
     "dailyMinutesDown": {}
   }
 ]
