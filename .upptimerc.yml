@@ -23,9 +23,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.phazed.xyz
   # baseUrl: /your-repo-name
-  logoUrl: https://webstatic-sea.phazed.xyz/cdn/rimirusticker.png
+  logoUrl: https://cdn.phazed.xyz/c0a2a7cfdab926fc23fced6f09874225.webp
   name: Phaze
-  introTitle: "Uptime of random services"
+  introTitle: "Status of services run by _phaz"
   navbar:
     - title: Status
       href: /
