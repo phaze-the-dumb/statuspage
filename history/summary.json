@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.phazed.xyz.ico",
     "slug": "proxy-server",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 166,
-    "timeWeek": 226,
-    "timeMonth": 257,
-    "timeYear": 269,
+    "uptime": "99.82%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.82%",
+    "time": 262,
+    "timeDay": 126,
+    "timeWeek": 199,
+    "timeMonth": 248,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2023-11-09": 0
+      "2023-11-09": 104
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://webstatic-sea.phazed.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/webstatic-sea.phazed.xyz.ico",
     "slug": "file-sea",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 127,
-    "timeWeek": 259,
-    "timeMonth": 303,
-    "timeYear": 323,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "92.80%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.82%",
+    "time": 320,
+    "timeDay": 157,
+    "timeWeek": 254,
+    "timeMonth": 301,
+    "timeYear": 320,
     "dailyMinutesDown": {
-      "2023-11-09": 0
+      "2023-11-09": 104
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://id.phazed.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/id.phazed.xyz.ico",
     "slug": "phaze-id",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 87,
-    "timeWeek": 211,
-    "timeMonth": 230,
-    "timeYear": 242,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "92.80%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.82%",
+    "time": 240,
+    "timeDay": 108,
+    "timeWeek": 205,
+    "timeMonth": 227,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2023-11-09": 0
+      "2023-11-09": 104
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://photos.phazed.xyz/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/photos.phazed.xyz.ico",
     "slug": "photo-backups",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 358,
-    "timeWeek": 562,
-    "timeMonth": 594,
-    "timeYear": 593,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "92.80%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.81%",
+    "time": 592,
+    "timeDay": 414,
+    "timeWeek": 557,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {
-      "2023-11-09": 0
+      "2023-11-09": 104
     }
   }
 ]
