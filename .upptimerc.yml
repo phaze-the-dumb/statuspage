@@ -9,6 +9,8 @@ sites:
     url: https://cdn.phazed.xyz/F1G3SQaaMAAWBI9t.jpg
   - name: Game Services / Multiplayer
     url: https://onlinegame.phazed.xyz
+    expectedStatusCodes:
+      - 404
   - name: File Sea
     url: https://webstatic-sea.phazed.xyz
   - name: Phaze ID
