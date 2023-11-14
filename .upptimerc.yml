@@ -3,24 +3,12 @@ owner: phaze-the-dumb # Your GitHub organization or username, where this reposit
 repo: statuspage # The name of this repository
 
 sites:
-  - name: Proxy Server
-    url: https://dns.phazed.xyz
   - name: CDN
     url: https://cdn.phazed.xyz/F1G3SQaaMAAWBI9t.jpg
-  - name: Game Services / Multiplayer
-    url: https://onlinegame.phazed.xyz
-    expectedStatusCodes:
-      - 404
-  - name: File Sea
-    url: https://webstatic-sea.phazed.xyz
-  - name: Phaze ID
-    url: https://id.phazed.xyz
   - name: Photo Backups
     url: https://photos.phazed.xyz/api/v1/status
   - name: ShareX Server
     url: https://i.phazed.xyz
-    expectedStatusCodes:
-      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
