@@ -9,6 +9,8 @@ sites:
     url: https://photos.phazed.xyz/api/v1/status
   - name: ShareX Server
     url: https://i.phazed.xyz
+  - name: Link Shortener
+    url: https://freeorgans.shop/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
