@@ -13,6 +13,8 @@ sites:
     url: https://freeorgans.shop/
   - name: Oculus DB
     url: https://oculusdb.rui2015.me/api/v1/headsets
+  - name: HelloHidnf
+    url: https://hellohidnf.gay
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
