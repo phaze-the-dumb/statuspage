@@ -11,8 +11,6 @@ sites:
     url: https://photos.phazed.xyz/api/v1/status
   - name: ShareX Server
     url: https://i.phazed.xyz
-  - name: Link Shortener
-    url: https://freeorgans.shop/
   - name: Oculus DB
     url: https://oculusdb.rui2015.me/api/v1/headsets
   - name: HelloHidnf
