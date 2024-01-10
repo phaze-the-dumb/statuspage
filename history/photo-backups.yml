@@ -1,7 +1,7 @@
 url: https://photos.phazed.xyz/api/v1/status
-status: down
-code: 500
-responseTime: 417
-lastUpdated: 2024-01-10T02:05:26.388Z
+status: up
+code: 200
+responseTime: 439
+lastUpdated: 2024-01-10T02:43:04.903Z
 startTime: 2023-10-03T06:24:50.242Z
 generator: Upptime <https://github.com/upptime/upptime>
