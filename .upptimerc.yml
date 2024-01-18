@@ -5,6 +5,8 @@ repo: statuspage # The name of this repository
 sites:
   - name: Home Page
     url: https://phazed.xyz/
+  - name: API
+    url: https://api.phazed.xyz/
   - name: CDN
     url: https://cdn.phazed.xyz/F1G3SQaaMAAWBI9t.jpg
   - name: Photo Backups
