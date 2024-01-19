@@ -6,9 +6,7 @@ sites:
   - name: Home Page
     url: https://phazed.xyz/
   - name: API
-    url: https://api.phazed.xyz/
-    expectedStatusCodes:
-      - 404
+    url: https://api.phazed.xyz/api/status
   - name: CDN
     url: https://cdn.phazed.xyz/F1G3SQaaMAAWBI9t.jpg
   - name: Photo Backups
