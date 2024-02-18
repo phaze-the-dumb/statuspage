@@ -17,6 +17,10 @@ sites:
     url: https://oculusdb.rui2015.me/api/v1/headsets
   - name: HelloHidnf
     url: https://hellohidnf.gay
+  - name: MC Server
+    check: "tcp-ping"
+    url: mc.phaz.uk
+    port: 25565
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
