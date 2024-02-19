@@ -142,19 +142,19 @@
     "url": "mc.phaz.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-server",
-    "status": "down",
-    "uptime": "75.45%",
-    "uptimeDay": "72.96%",
-    "uptimeWeek": "75.45%",
-    "uptimeMonth": "75.45%",
-    "uptimeYear": "75.45%",
-    "time": 99,
-    "timeDay": 109,
-    "timeWeek": 99,
-    "timeMonth": 99,
-    "timeYear": 99,
+    "status": "up",
+    "uptime": "74.89%",
+    "uptimeDay": "72.13%",
+    "uptimeWeek": "74.89%",
+    "uptimeMonth": "74.89%",
+    "uptimeYear": "74.89%",
+    "time": 95,
+    "timeDay": 100,
+    "timeWeek": 95,
+    "timeMonth": 95,
+    "timeYear": 95,
     "dailyMinutesDown": {
-      "2024-02-19": 389
+      "2024-02-19": 401
     }
   }
 ]
