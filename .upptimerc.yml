@@ -23,7 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.phazed.xyz
   # baseUrl: /your-repo-name
-  logoUrl: https://cdn.phazed.xyz/c0a2a7cfdab926fc23fced6f09874225.webp
+  logoUrl: https://cdn.phazed.xyz/Assets/60e38fa44fc392365cb2f300daccd0a8.webp
   name: Phaze
   introTitle: "Status of services run by _phaz"
   navbar:
