@@ -1,7 +1,7 @@
 url: https://api.phazed.xyz/api/status
-status: down
-code: 502
-responseTime: 346
-lastUpdated: 2024-05-25T21:42:47.157Z
+status: up
+code: 200
+responseTime: 368
+lastUpdated: 2024-05-25T21:49:14.344Z
 startTime: 2024-01-18T16:48:29.280Z
 generator: Upptime <https://github.com/upptime/upptime>
