@@ -137,18 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hellohidnf.gay.ico",
     "slug": "hello-hidnf",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 380,
     "timeDay": 470,
     "timeWeek": 295,
     "timeMonth": 479,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2024-06-13": 0
+      "2024-06-13": 26
     }
   }
 ]
