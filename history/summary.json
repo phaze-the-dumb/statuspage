@@ -121,19 +121,19 @@
     "url": "https://oculusdb.rui2015.me/api/v1/headsets",
     "icon": "https://icons.duckduckgo.com/ip3/oculusdb.rui2015.me.ico",
     "slug": "oculus-db",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 481,
-    "timeDay": 441,
-    "timeWeek": 474,
-    "timeMonth": 525,
-    "timeYear": 481,
+    "time": 480,
+    "timeDay": 399,
+    "timeWeek": 457,
+    "timeMonth": 519,
+    "timeYear": 480,
     "dailyMinutesDown": {
-      "2024-08-08": 0
+      "2024-08-08": 14
     }
   }
 ]
