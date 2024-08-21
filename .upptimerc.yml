@@ -14,7 +14,7 @@ sites:
   - name: ShareX Server
     url: https://i.phazed.xyz
   - name: Oculus DB
-    url: https://oculusdb.rui2015.me/api/v1/headsets
+    url: https://oculusdb.rui2015.me/api/v1/search/beat%20saber?groups=Quest,PCVR,GoAndGearVr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
