@@ -131,19 +131,19 @@
     "url": "https://oculusdb.rui2015.me/api/v1/search/beat%20saber?groups=Quest,PCVR,GoAndGearVr",
     "icon": "https://icons.duckduckgo.com/ip3/oculusdb.rui2015.me.ico",
     "slug": "oculus-db",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "89.12%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.96%",
     "time": 482,
-    "timeDay": 352,
+    "timeDay": 431,
     "timeWeek": 510,
-    "timeMonth": 513,
+    "timeMonth": 512,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2024-08-21": 0
+      "2024-08-21": 157
     }
   }
 ]
