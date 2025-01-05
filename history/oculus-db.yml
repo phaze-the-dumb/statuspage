@@ -1,7 +1,7 @@
 url: https://oculusdb.rui2015.me/api/v1/search/beat%20saber?groups=Quest,PCVR,GoAndGearVr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-05T03:02:42.479Z
+status: up
+code: 200
+responseTime: 569
+lastUpdated: 2025-01-05T03:55:24.771Z
 startTime: 2023-12-07T20:33:08.338Z
 generator: Upptime <https://github.com/upptime/upptime>
