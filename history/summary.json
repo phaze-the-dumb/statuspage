@@ -4,7 +4,7 @@
     "url": "https://phazed.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/phazed.xyz.ico",
     "slug": "home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 211,
     "timeYear": 178,
     "dailyMinutesDown": {
+      "2025-04-10": 0,
       "2024-04-26": 112
     }
   },
@@ -78,7 +79,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.phazed.xyz.ico",
     "slug": "photo-backups",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
