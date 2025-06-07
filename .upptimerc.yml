@@ -3,16 +3,10 @@ owner: phaze-the-dumb # Your GitHub organization or username, where this reposit
 repo: statuspage # The name of this repository
 
 sites:
-  - name: Home Page
+  - name: Home
     url: https://phazed.xyz/
-  - name: API
-    url: https://api.phazed.xyz/api/status
   - name: CDN
     url: https://cdn.phazed.xyz/F1G3SQaaMAAWBI9t.jpg
-  - name: Photo Backups
-    url: https://photos.phazed.xyz/api/v1/status
-  - name: ShareX Server
-    url: https://i.phazed.xyz
   - name: Oculus DB
     url: https://oculusdb.rui2015.me/api/v1/search/beat%20saber?groups=Quest,PCVR,GoAndGearVr
 
