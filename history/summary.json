@@ -4,19 +4,19 @@
     "url": "https://phazed.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/phazed.xyz.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 376,
-    "timeDay": 528,
-    "timeWeek": 362,
-    "timeMonth": 376,
-    "timeYear": 376,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 367,
+    "timeDay": 397,
+    "timeWeek": 350,
+    "timeMonth": 367,
+    "timeYear": 367,
     "dailyMinutesDown": {
-      "2025-06-18": 0
+      "2025-06-18": 15
     }
   },
   {
